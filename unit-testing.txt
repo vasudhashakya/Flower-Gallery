@@ -1,0 +1,8 @@
+> rake test
+Run options: --seed 12190
+
+# Running tests:
+
+.......
+Finished test in 0.743054s, 9.4206 tests/s, 17.4954 assertions/s
+7 tests, 13 assertions,0 failures,0 errors, 0 skips
